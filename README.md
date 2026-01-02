@@ -6,7 +6,7 @@ I'm Nikhil, currently pursuing a computer engineering degree at Boston Universit
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a sports alumni engagement microservice.
-- 🌱 I’m currently studying computer engineering
+- 🌱 I recently graduated from Boston University with a degree in Computer Engineering!
 - 👯 I’m looking to collaborate on anything!
 - 📫 How to reach me: nikhilk@bu.edu
 - 😄 Pronouns: He/Him
