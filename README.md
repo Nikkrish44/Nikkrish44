@@ -3,3 +3,7 @@ I'm Nikhil, just completed my bachelor's degree in computer engineering at Bosto
 <!--
 **Nikkrish44/Nikkrish44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🔭 I’m currently working on expanding my agentic/RAG knowledge
+📫 How to reach me: nikkrish44@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I lived in Japan for 2 years, but I remember nothing from it!
